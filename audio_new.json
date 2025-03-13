@@ -1,202 +1,202 @@
 [
     {
         "name": "Audio 1",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence001.wav",
+        "path": "test_samples_arctic_weather/sentence001.wav",
         "transcription": "Light snowfall is expected tonight, accumulating up to two inches."
     },
     {
         "name": "Audio 2",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence002.wav",
+        "path": "test_samples_arctic_weather/sentence002.wav",
         "transcription": "Humidity levels are expected to rise significantly tomorrow morning."
     },
     {
         "name": "Audio 3",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence003.wav",
+        "path": "test_samples_arctic_weather/sentence003.wav",
         "transcription": "Expect clear skies overnight as a low-pressure system moves eastward."
     },
     {
         "name": "Audio 4",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence004.wav",
+        "path": "test_samples_arctic_weather/sentence004.wav",
         "transcription": "High-altitude clouds suggest changing weather patterns by Wednesday."
     },
     {
         "name": "Audio 5",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence005.wav",
+        "path": "test_samples_arctic_weather/sentence005.wav",
         "transcription": "Isolated thunderstorms may develop in the afternoon across central areas."
     },
     {
         "name": "Audio 6",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence006.wav",
+        "path": "test_samples_arctic_weather/sentence006.wav",
         "transcription": "A mix of sun and clouds is expected, keeping temperatures moderate."
     },
     {
         "name": "Audio 7",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence007.wav",
+        "path": "test_samples_arctic_weather/sentence007.wav",
         "transcription": "Patchy fog might linger near water bodies early in the morning."
     },
     {
         "name": "Audio 8",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence008.wav",
+        "path": "test_samples_arctic_weather/sentence008.wav",
         "transcription": "Temperatures will dip slightly below average on Sunday."
     },
     {
         "name": "Audio 9",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence009.wav",
+        "path": "test_samples_arctic_weather/sentence009.wav",
         "transcription": "Afternoon thundershowers could lead to localized flooding in some areas."
     },
     {
         "name": "Audio 10",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence010.wav",
+        "path": "test_samples_arctic_weather/sentence010.wav",
         "transcription": "Mist is likely to form in valleys during the overnight hours."
     },
     {
         "name": "Audio 11",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence011.wav",
+        "path": "test_samples_arctic_weather/sentence011.wav",
         "transcription": "Visibility may be limited due to dense mist in valleys."
     },
     {
         "name": "Audio 12",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence012.wav",
+        "path": "test_samples_arctic_weather/sentence012.wav",
         "transcription": "Frost is likely on exposed surfaces, despite sunny skies."
     },
     {
         "name": "Audio 13",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence013.wav",
+        "path": "test_samples_arctic_weather/sentence013.wav",
         "transcription": "Hazy conditions prevail along riverbanks as humidity increases."
     },
     {
         "name": "Audio 14",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence014.wav",
+        "path": "test_samples_arctic_weather/sentence014.wav",
         "transcription": "Expect rapid temperature drops after sunset."
     },
     {
         "name": "Audio 15",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence015.wav",
+        "path": "test_samples_arctic_weather/sentence015.wav",
         "transcription": "Heat advisories are in effect with oppressive humidity levels."
     },
     {
         "name": "Audio 16",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence016.wav",
+        "path": "test_samples_arctic_weather/sentence016.wav",
         "transcription": "Blizzard warnings issued for high-altitude areas overnight."
     },
     {
         "name": "Audio 17",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence017.wav",
+        "path": "test_samples_arctic_weather/sentence017.wav",
         "transcription": "Expect freezing rain to create slick road conditions."
     },
     {
         "name": "Audio 18",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence018.wav",
+        "path": "test_samples_arctic_weather/sentence018.wav",
         "transcription": "Morning dew creates a shimmer on grass as dawn breaks."
     },
     {
         "name": "Audio 19",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence019.wav",
+        "path": "test_samples_arctic_weather/sentence019.wav",
         "transcription": "The temperature is expected to peak just before sunset."
     },
     {
         "name": "Audio 20",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_arctic_weather/sentence020.wav",
+        "path": "test_samples_arctic_weather/sentence020.wav",
         "transcription": "Snowfall tapers off but leaves a thick blanket of white."
     },
     {
         "name": "Audio 21",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence001.wav",
+        "path": "test_samples_weather_weather/sentence001.wav",
         "transcription": "Light snowfall is expected tonight, accumulating up to two inches."
     },
     {
         "name": "Audio 22",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence002.wav",
+        "path": "test_samples_weather_weather/sentence002.wav",
         "transcription": "Humidity levels are expected to rise significantly tomorrow morning."
     },
     {
         "name": "Audio 23",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence003.wav",
+        "path": "test_samples_weather_weather/sentence003.wav",
         "transcription": "Expect clear skies overnight as a low-pressure system moves eastward."
     },
     {
         "name": "Audio 24",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence004.wav",
+        "path": "test_samples_weather_weather/sentence004.wav",
         "transcription": "High-altitude clouds suggest changing weather patterns by Wednesday."
     },
     {
         "name": "Audio 25",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence005.wav",
+        "path": "test_samples_weather_weather/sentence005.wav",
         "transcription": "Isolated thunderstorms may develop in the afternoon across central areas."
     },
     {
         "name": "Audio 26",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence006.wav",
+        "path": "test_samples_weather_weather/sentence006.wav",
         "transcription": "A mix of sun and clouds is expected, keeping temperatures moderate."
     },
     {
         "name": "Audio 27",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence007.wav",
+        "path": "test_samples_weather_weather/sentence007.wav",
         "transcription": "Patchy fog might linger near water bodies early in the morning."
     },
     {
         "name": "Audio 28",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence008.wav",
+        "path": "test_samples_weather_weather/sentence008.wav",
         "transcription": "Temperatures will dip slightly below average on Sunday."
     },
     {
         "name": "Audio 29",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence009.wav",
+        "path": "test_samples_weather_weather/sentence009.wav",
         "transcription": "Afternoon thundershowers could lead to localized flooding in some areas."
     },
     {
         "name": "Audio 30",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence010.wav",
+        "path": "test_samples_weather_weather/sentence010.wav",
         "transcription": "Mist is likely to form in valleys during the overnight hours."
     },
     {
         "name": "Audio 31",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence011.wav",
+        "path": "test_samples_weather_weather/sentence011.wav",
         "transcription": "Visibility may be limited due to dense mist in valleys."
     },
     {
         "name": "Audio 32",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence012.wav",
+        "path": "test_samples_weather_weather/sentence012.wav",
         "transcription": "Frost is likely on exposed surfaces, despite sunny skies."
     },
     {
         "name": "Audio 33",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence013.wav",
+        "path": "test_samples_weather_weather/sentence013.wav",
         "transcription": "Hazy conditions prevail along riverbanks as humidity increases."
     },
     {
         "name": "Audio 34",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence014.wav",
+        "path": "test_samples_weather_weather/sentence014.wav",
         "transcription": "Expect rapid temperature drops after sunset."
     },
     {
         "name": "Audio 35",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence015.wav",
+        "path": "test_samples_weather_weather/sentence015.wav",
         "transcription": "Heat advisories are in effect with oppressive humidity levels."
     },
     {
         "name": "Audio 36",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence016.wav",
+        "path": "test_samples_weather_weather/sentence016.wav",
         "transcription": "Blizzard warnings issued for high-altitude areas overnight."
     },
     {
         "name": "Audio 37",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence017.wav",
+        "path": "test_samples_weather_weather/sentence017.wav",
         "transcription": "Expect freezing rain to create slick road conditions."
     },
     {
         "name": "Audio 38",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence018.wav",
+        "path": "test_samples_weather_weather/sentence018.wav",
         "transcription": "Morning dew creates a shimmer on grass as dawn breaks."
     },
     {
         "name": "Audio 39",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence019.wav",
+        "path": "test_samples_weather_weather/sentence019.wav",
         "transcription": "The temperature is expected to peak just before sunset."
     },
     {
         "name": "Audio 40",
-        "path": "/home/saisamarth/dev/projects/speech-synthesis/test_samples_weather_weather/sentence020.wav",
+        "path": "test_samples_weather_weather/sentence020.wav",
         "transcription": "Snowfall tapers off but leaves a thick blanket of white"
     }
 ]
