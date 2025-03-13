@@ -4,11 +4,19 @@ import os
 import time
 import json
 from supabase import create_client
+import random
 
 # Initialize Supabase
 supabase_url = st.secrets["SUPABASE_URL"]
 supabase_key = st.secrets["SUPABASE_KEY"]
 supabase = create_client(supabase_url, supabase_key)
+
+# try:
+#     supabase = create_client(supabase_url, supabase_key)
+#     st.sidebar.success("Connected to Supabase!")
+# except Exception as e:
+#     st.sidebar.error(f"Failed to connect to Supabase: {str(e)}")
+#     st.stop()
 
 # Title of the form
 # st.title("Audio Feedback Form")
@@ -100,6 +108,8 @@ pronunciation = horizontal_radio(
 # Function to save feedback to supabase
 def save_feedback(nickname, audio_name, intelligibility, naturalness, pronunciation):
     feedback_data = {
+        # random id to be unique
+        "id": random.randint(1, 1000000),
         "nickname": nickname,
         "audio_name": audio_name,
         "intelligibility": intelligibility.split(" - ")[0],
