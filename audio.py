@@ -3,6 +3,12 @@ import pandas as pd
 import os
 import time
 import json
+from supabase import create_client
+
+# Initialize Supabase
+supabase_url = st.secrets["SUPABASE_URL"]
+supabase_key = st.secrets["SUPABASE_KEY"]
+supabase = create_client(supabase_url, supabase_key)
 
 # Title of the form
 # st.title("Audio Feedback Form")
@@ -91,16 +97,18 @@ pronunciation = horizontal_radio(
     index=2
 )
 
-# Function to save feedback to CSV
+# Function to save feedback to supabase
 def save_feedback(nickname, audio_name, intelligibility, naturalness, pronunciation):
-    new_data = pd.DataFrame(
-        [[nickname, audio_name, intelligibility.split(" - ")[0], naturalness.split(" - ")[0], pronunciation.split(" - ")[0]]],
-        columns=["Nickname", "Audio Name", "Intelligibility", "Naturalness", "Pronunciation Accuracy"]
-    )
-    if not os.path.exists(csv_file):
-        new_data.to_csv(csv_file, index=False)
-    else:
-        new_data.to_csv(csv_file, mode='a', header=False, index=False)
+    feedback_data = {
+        "nickname": nickname,
+        "audio_name": audio_name,
+        "intelligibility": intelligibility.split(" - ")[0],
+        "naturalness": naturalness.split(" - ")[0],
+        "pronunciation": pronunciation.split(" - ")[0]
+    }
+    
+    result = supabase.table('feedback').insert(feedback_data).execute()
+    return result
 
 # Next button to proceed to the next audio file
 if st.button("Next"):
